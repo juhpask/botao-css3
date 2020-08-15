@@ -1,0 +1,38 @@
+.button{
+    position:absolute;
+    top: 20%;
+    left: 40%;
+    text-decoration: none;
+    font-family: arial;
+    background-color: #2d8bd9;
+    background: linear-gradient( #2d8bd9, #2876b2);
+    color:white;
+    font-size: 30px;
+    border-radius: 10px;
+    padding: 10px 20px;
+    box-shadow: 1px 1px 2px #999;
+}
+.button:hover{
+    background-color: #31a4f5;
+    background: linear-gradient(#31a4f5 , #2d8dd3)
+}
+
+
+
+footer{
+    text-align: center;
+    line-height: 50px;
+    background-color: #cccccc;
+    font-size: 15px;
+    color: #585050;
+    margin-top: 5px;
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    box-sizing: border-box;
+}
+
+footer a{
+    text-decoration: none;
+    color: #f8f6f6;
+}
